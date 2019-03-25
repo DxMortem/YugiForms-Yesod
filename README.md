@@ -3,9 +3,9 @@
 After installing Postgres, run:
 
 ```
-createuser YugiForms-Yesod --password YugiForms-Yesod --superuser
-createdb YugiForms-Yesod
-createdb YugiForms-Yesod_test
+createuser rootyugi --password rootyugi --superuser
+createdb rootyugi
+createdb rootyugi_test
 ```
 
 ## Haskell Setup
